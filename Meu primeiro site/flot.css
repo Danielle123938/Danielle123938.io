@@ -1,0 +1,17 @@
+
+div{
+    border: solid rgb(233, 31, 65);
+    padding: 2x;
+}
+#c1{
+    background: yellow;
+    float:left;
+}
+#ods4{
+    width: 70px;
+    height: 70x;
+    margin-top: 10px;
+    margin-right: 10px;
+    float:left;
+
+}

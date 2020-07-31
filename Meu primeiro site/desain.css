@@ -1,0 +1,30 @@
+div{
+    background: url(mar.jpg.jpg);
+    color: white;
+    text-align: center;
+    padding:50px;
+}
+.subtitulo{
+    border-top: white 2px;
+}
+.botão{
+    text-align: center;
+    border: solid black 2px;
+    padding:5px;
+    margin-left: 240px;
+    width: 60px;
+    height: 20px;
+}
+.botão:hover{
+    background: white;
+}
+h2{
+    color:black;
+   font-family: monospace;
+}
+body{
+    background: url(areia.jpg);
+
+}
+
+
